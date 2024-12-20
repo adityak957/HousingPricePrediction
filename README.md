@@ -1,4 +1,4 @@
-House Price Prediction
+## House Price Prediction
 
 This project aims to predict house prices based on various features such as the year built, neighborhood, exterior materials, and more. We use machine learning models, including Support Vector Machines (SVM), Random Forest Regressor, and Linear Regression, to predict the target variable, SalePrice.
 Project Overview
